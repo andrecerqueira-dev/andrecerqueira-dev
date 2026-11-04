@@ -1,16 +1,30 @@
-## Hi there 👋
+<h2> Olá! Eu sou André Cerqueira :wave:</h2> 
 
-<!--
-**andrecerqueira-ai/andrecerqueira-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:dart: **Desenvolvedor Full Stack em formação,** aprimorando minhas habilidades em desenvolvimento web e construindo minha jornada na programação.
 
-Here are some ideas to get you started:
+:rocket: Estou em constante evolução, aprendendo novas tecnologias e colocando em prática meus conhecimentos por meio de projetos.
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Fale comigo: </h3>
+:envelope: <a href="mailto:andrecerqueirasilva@gmail.com"> andrecerqueirasilva@gamil.com</a>
+<br>
+<br>
+
+### :computer: Tecnologias e Ferramentas      
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Git**
+- **GitHub**
+
+### :books: Próximos passos
+- **Node.js**
+- **React** 
+- **TypeScript**
+- **Flexbox e CSS Grid**
+- **Desenvolvimento Back-end** 
+- **Desenvolvimento Mobile**
+
+  
+
