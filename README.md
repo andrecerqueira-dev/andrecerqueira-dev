@@ -1,6 +1,6 @@
 <h2> Olá! Eu sou André Cerqueira :wave:</h2> 
 
-:dart: **Desenvolvedor Full Stack em formação,** aprimorando minhas habilidades em desenvolvimento web e construindo minha jornada na programação.
+:dart: **Desenvolvedor Full Stack,** aprimorando minhas habilidades em desenvolvimento web e construindo minha jornada na programação.
 
 :rocket: Estou em constante evolução, aprendendo novas tecnologias e colocando em prática meus conhecimentos por meio de projetos.
 <br>
