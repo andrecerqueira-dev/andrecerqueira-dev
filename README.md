@@ -1,30 +1,40 @@
-<h2> Olá! Eu sou André Cerqueira :wave:</h2> 
+<h2 align="center">Olá! Eu sou André Cerqueira 👋</h2>
 
-:dart: **Desenvolvedor Front-End,** aprimorando minhas habilidades em desenvolvimento web e construindo minha jornada na programação.
+<p align="center">
+  <strong>Desenvolvedor Front-End</strong> em constante evolução.
+</p>
 
-:rocket: Estou em constante evolução, aprendendo novas tecnologias e colocando em prática meus conhecimentos por meio de projetos.
-<br>
-<br>
+<p>
+  Estou aprimorando minhas habilidades em desenvolvimento web, explorando novas tecnologias e colocando meus conhecimentos em prática por meio de projetos.
+</p>
 
-<h3>Fale comigo: </h3>
-:envelope: <a href="mailto:andrecerqueirasilva@gmail.com"> andrecerqueirasilva@gamil.com</a>
-<br>
-<br>
+## 🧰 Tecnologias e ferramentas
 
-### :computer: Tecnologias e Ferramentas      
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Git**
-- **GitHub**
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Responsive Design 
+- JavaScript
+- Git
+- GitHub
+- Node.js
+- Visual Studio Code (VS Code)
 
-### :books: Próximos passos
-- **Node.js**
-- **React** 
-- **TypeScript**
-- **Flexbox e CSS Grid**
-- **Desenvolvimento Back-end** 
-- **Desenvolvimento Mobile**
+## 📚 Atualmente estudando
 
-  
+- React
+- TypeScript
+- Consumo de APIs
+- Desenvolvimento Back-end
+- Desenvolvimento Mobile
+
+## 📫 Entre em contato
+
+- ✉️ E-mail: [andrecerqueirasilva@gmail.com](mailto:andrecerqueirasilva@gmail.com)
+- 💼 LinkedIn: www.linkedin.com/in/andrecerqueira12
+
+---
+
+⭐ Obrigado pela visita ao meu perfil!  
 
