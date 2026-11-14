@@ -26,6 +26,7 @@
 - React
 - TypeScript
 - Consumo de APIs
+- SQL (banco de dados)
 - Desenvolvimento Back-end
 - Desenvolvimento Mobile
 
