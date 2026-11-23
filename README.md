@@ -36,7 +36,7 @@
 - 💼 **LinkedIn:** www.linkedin.com/in/andrecerqueira12
 - 🌐 **Portfólio:** https://andrecerqueira-dev.github.io/portfolio-andre-cerqueira/
 - <p>
-  <a href="https://1drv.ms/b/c/806640bb08028725/IQC6MG1yvn5dQqr0qw3-N4ivAe57qFG0fKR_ljnyPUBlRc4?e=4yWykn" target="_blank">
+  <a href="./Andre CerqueiraCV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/_MEU_CURRÍCULO-PDF-red?style=for-the-badge" alt="Meu Currículo em PDF">
   </a>
 </p>
